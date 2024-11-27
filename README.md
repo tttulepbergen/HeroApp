@@ -36,7 +36,8 @@ The app gracefully handles network errors and JSON parsing errors. If there is a
 ## Screenshots and Video
 <img src="https://github.com/user-attachments/assets/873d9d73-8e13-45a6-9838-998614d50f42" width="300" alt="Simulator Screenshot">
 
-<video src="https://github.com/user-attachments/assets/4e3907ab-04e3-4444-9718-bc1e3df41de9
-.mp4" controls width="300"></video>
+<video src="https://github.com/user-attachments/assets/4e3907ab-04e3-4444-9718-bc1e3df41de9.mp4" controls width="300"></video>
+
+
 
 **Explore the superhero world and enjoy discovering your favorite heroes!**  
